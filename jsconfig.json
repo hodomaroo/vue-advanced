@@ -15,5 +15,7 @@
       "dom.iterable",
       "scripthost"
     ]
-  }
+  },
+
+  "exclude": ["node_modules","package-lock.json"]
 }
